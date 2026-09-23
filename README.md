@@ -7,4 +7,4 @@ Python3 scripts written by Ganesh for making datacard for Run-2.
 ```bashForAllYears.sh```
 
 ## To split the files per bin of M_{x}, use
-```bashForAllSplitingFiles.sh````
+```bashForAllSplitingFiles.sh```
